@@ -1,0 +1,101 @@
+id,brand,model,year,engine_type,horsepower,price,transmission
+1,Toyota,Corolla,2020,Petrol,132,20000,Automatic
+2,Honda,Civic,2019,Petrol,158,22000,Manual
+3,Ford,Focus,2018,Diesel,160,21000,Automatic
+4,BMW,3 Series,2021,Petrol,255,40000,Automatic
+5,Mercedes,C Class,2020,Diesel,231,42000,Automatic
+6,Audi,A4,2019,Petrol,201,39000,Manual
+7,Volkswagen,Passat,2018,Diesel,174,28000,Automatic
+8,Hyundai,Elantra,2021,Petrol,147,21000,Automatic
+9,Kia,Optima,2020,Petrol,185,23000,Automatic
+10,Nissan,Altima,2019,Petrol,188,24000,Manual
+11,Tesla,Model 3,2021,Electric,283,45000,Automatic
+12,Chevrolet,Malibu,2020,Petrol,160,22000,Automatic
+13,Ford,Fusion,2019,Hybrid,188,25000,Automatic
+14,Honda,Accord,2021,Petrol,192,30000,Automatic
+15,Toyota,Camry,2020,Hybrid,203,31000,Automatic
+16,BMW,5 Series,2019,Diesel,248,50000,Automatic
+17,Mercedes,E Class,2020,Petrol,255,52000,Automatic
+18,Audi,A6,2021,Petrol,335,55000,Automatic
+19,Volkswagen,Jetta,2019,Diesel,147,21000,Manual
+20,Hyundai,Sonata,2020,Petrol,191,25000,Automatic
+21,Kia,Stinger,2021,Petrol,365,45000,Automatic
+22,Nissan,Maxima,2020,Petrol,300,36000,Automatic
+23,Tesla,Model S,2021,Electric,670,90000,Automatic
+24,Chevrolet,Impala,2019,Petrol,305,40000,Automatic
+25,Ford,Mustang,2021,Petrol,450,55000,Manual
+26,Honda,Fit,2020,Petrol,130,16000,Manual
+27,Toyota,Yaris,2019,Petrol,106,15000,Automatic
+28,BMW,X3,2021,Diesel,248,42000,Automatic
+29,Mercedes,GLC,2020,Petrol,255,43000,Automatic
+30,Audi,Q5,2019,Diesel,248,45000,Automatic
+31,Volkswagen,Tiguan,2021,Petrol,184,36000,Automatic
+32,Hyundai,Tucson,2020,Petrol,181,28000,Automatic
+33,Kia,Sportage,2019,Diesel,175,27000,Semi-auto
+34,Nissan,Rogue,2021,Petrol,181,30000,Automatic
+35,Tesla,Model X,2021,Electric,670,95000,Automatic
+36,Chevrolet,Equinox,2020,Petrol,170,26000,Automatic
+37,Ford,Explorer,2019,Petrol,300,42000,Automatic
+38,Honda,CR-V,2021,Hybrid,212,35000,Automatic
+39,Toyota,RAV4,2020,Petrol,203,32000,Automatic
+40,BMW,X5,2021,Diesel,335,60000,Automatic
+41,Mercedes,GLE,2020,Petrol,362,65000,Automatic
+42,Audi,Q7,2019,Diesel,335,58000,Automatic
+43,Volkswagen,Atlas,2021,Petrol,276,45000,Automatic
+44,Hyundai,Santa Fe,2020,Petrol,276,40000,Automatic
+45,Kia,Sorento,2019,Diesel,281,42000,Automatic
+46,Nissan,Murano,2021,Petrol,260,43000,Automatic
+47,Tesla,Model Y,2021,Electric,456,60000,Automatic
+48,Chevrolet,Traverse,2020,Petrol,310,50000,Semi-auto
+49,Ford,Edge,2019,Diesel,250,41000,Automatic
+50,Honda,Pilot,2021,Petrol,280,48000,Automatic
+51,Toyota,Highlander,2021,Hybrid,295,48000,Semi-auto
+52,Honda,Odyssey,2020,Petrol,280,37000,Automatic
+53,Ford,F-150,2021,Petrol,400,55000,Automatic
+54,BMW,7 Series,2020,Petrol,335,85000,Automatic
+55,Mercedes,S Class,2021,Diesel,429,90000,Automatic
+56,Audi,A8,2020,Petrol,335,86000,Automatic
+57,Volkswagen,Arteon,2021,Petrol,300,45000,Automatic
+58,Hyundai,Venue,2020,Petrol,121,20000,Automatic
+59,Kia,Seltos,2021,Petrol,175,25000,Automatic
+60,Nissan,Kicks,2020,Petrol,122,21000,Automatic
+61,Tesla,Model 2,2022,Electric,350,55000,Automatic
+62,Chevrolet,Trailblazer,2021,Petrol,155,24000,Automatic
+63,Ford,Bronco,2021,Petrol,310,45000,Manual
+64,Honda,HR-V,2020,Petrol,141,22000,Automatic
+65,Toyota,4Runner,2019,Petrol,270,37000,Automatic
+66,BMW,X1,2021,Diesel,228,40000,Automatic
+67,Mercedes,GLA,2020,Petrol,221,37000,Automatic
+68,Audi,Q3,2021,Petrol,228,42000,Automatic
+69,Volkswagen,Taos,2021,Petrol,158,26000,Automatic
+70,Hyundai,Kona,2020,Petrol,175,24000,Automatic
+71,Kia,Niro,2021,Hybrid,139,28000,Automatic
+72,Nissan,Juke,2020,Petrol,117,21000,Automatic
+73,Tesla,Cybertruck,2022,Electric,800,70000,Automatic
+74,Chevrolet,Blazer,2021,Petrol,228,42000,Automatic
+75,Ford,Escape,2020,Petrol,250,34000,Automatic
+76,Honda,Passport,2021,Petrol,280,38000,Automatic
+77,Toyota,Venza,2021,Hybrid,219,40000,Automatic
+78,BMW,X6,2020,Diesel,335,70000,Automatic
+79,Mercedes,GLE Coupe,2021,Petrol,429,85000,Automatic
+80,Audi,Q8,2020,Petrol,335,88000,Automatic
+81,Volkswagen,ID.4,2021,Electric,201,42000,Automatic
+82,Hyundai,Ioniq 5,2021,Electric,225,45000,Semi-auto
+83,Kia,EV6,2021,Electric,320,50000,Semi-auto
+84,Nissan,Ariya,2021,Electric,214,43000,Automatic
+85,Tesla,Model 3 Long Range,2021,Electric,283,55000,Automatic
+86,Chevrolet,Bolt,2021,Electric,200,37000,Automatic
+87,Ford,Mustang Mach-E,2021,Electric,346,50000,Automatic
+88,Honda,e:HEV,2021,Hybrid,181,32000,Automatic
+89,Toyota,Prius,2020,Hybrid,121,25000,Automatic
+90,BMW,iX3,2021,Electric,286,999999990000,Automatic
+91,Mercedes,EQC,2021,Electric,402,72000,Automatic
+92,Audi,e-tron,2021,Electric,355,68000,Automatic
+93,Volkswagen,e-Golf,2020,Electric,134,35000,Automatic
+94,Hyundai,Ioniq Electric,2021,Electric,134,36000,Automatic
+95,Kia,Niro EV,2021,Electric,201,40000,Automatic
+96,Nissan,Leaf,2020,Electric,147,31000,Automatic
+97,Tesla,Model X Plaid,2021,Electric,1020,120000,Automatic
+98,Chevrolet,Silverado,2021,Diesel,310,55000,Automatic
+99,Ford,Ranger,2020,Diesel,270,37000,Automatic
+100,Honda,Ridgeline,2021,Petrol,280,4200000,Semi-auto

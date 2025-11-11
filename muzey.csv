@@ -1,0 +1,101 @@
+id,first_name,last_name,country,city,museum_name,visit_date,visit_year,books_borrowed
+1,Liam,Smith,United States,New York,National Museum,2020-03-12,2020,2
+2,Emma,Johnson,United Kingdom,London,History Museum,2021-07-05,2021,1
+3,Noah,Williams,France,Paris,Art Museum,2022-05-22,2022,3
+4,Olivia,Brown,Germany,Berlin,Science Center,2020-11-09,2020,0
+5,Elijah,Jones,Japan,Tokyo,Modern Art Museum,2023-08-14,2023,4
+6,Ava,Miller,China,Beijing,Museum of Natural History,2024-01-20,2024,1
+7,William,Davis,India,Delhi,Archaeology Museum,2021-12-03,2021,2
+8,Sophia,Garcia,Australia,Sydney,Maritime Museum,2022-09-17,2022,0
+9,James,Martinez,Canada,Toronto,National Museum,2025-04-02,2025,3
+10,Isabella,Hernandez,Russia,Moscow,History Museum,2020-06-30,2020,1
+11,Benjamin,Lopez,Italy,Rome,Art Museum,2021-10-11,2021,2
+12,Mia,Gonzalez,Spain,Madrid,Modern Art Museum,2023-02-25,2023,0
+13,Lucas,Wilson,Mexico,Mexico City,Museum of Anthropology,2024-07-08,2024,1
+14,Charlotte,Anderson,Brazil,Sao Paulo,Cultural Heritage Museum,2022-03-19,2022,0
+15,Henry,Thomas,Egypt,Cairo,Archaeology Museum,2020-09-27,2020,2
+16,Amelia,Taylor,Turkey,Istanbul,History Museum,2021-04-15,2021,3
+17,Alexander,Moore,UAE,Dubai,Modern Art Museum,2025-01-05,2025,0
+18,Evelyn,Jackson,Saudi Arabia,Riyadh,National Museum,2023-11-21,2023,1
+19,Daniel,Martin,Sweden,Stockholm,Natural History Museum,2022-08-06,2022,0
+20,Harper,Lee,Norway,Oslo,Maritime Museum,2024-12-12,2024,2
+21,Matthew,Perez,Netherlands,Amsterdam,Art Museum,2020-02-18,2020,1
+22,Scarlett,White,Switzerland,Zurich,Science Center,2021-05-29,2021,0
+23,Joseph,Harris,Portugal,Lisbon,History Museum,2022-10-04,2022,3
+24,Eleanor,Sanchez,Greece,Athens,Archaeology Museum,2023-06-14,2023,1
+25,Samuel,Clark,Argentina,Buenos Aires,National Museum,2024-03-02,2024,0
+26,Sofia,Ramirez,Chile,Santiago,Museum of Modern Art,2020-08-09,2020,2
+27,David,Lewis,Peru,Lima,Museum of History,2021-09-23,2021,0
+28,Victoria,Robinson,Colombia,Bogota,Art Museum,2022-11-30,2022,1
+29,Josephine,Walker,Indonesia,Jakarta,National Museum,2023-01-16,2023,3
+30,Samuel,Hall,Malaysia,Kuala Lumpur,Museum of Islamic Art,2024-05-05,2024,0
+31,Chloe,Allen,Singapore,Singapore,Science Center,2025-09-09,2025,2
+32,Owen,Young,Thailand,Bangkok,Museum of Siam,2020-10-28,2020,1
+33,Grace,Hernandez,Vietnam,Hanoi,History Museum,2021-03-07,2021,0
+34,Luke,King,South Korea,Seoul,National Museum,2022-07-12,2022,3
+35,Lillian,Wright,New Zealand,Auckland,Maritime Museum,2023-04-20,2023,2
+36,Elena,Lopez,Nigeria,Lagos,National Museum,2024-06-01,2024,1
+37,Anthony,Hill,Kenya,Nairobi,History Museum,2025-02-18,2025,0
+38,Aria,Scott,Morocco,Rabat,Archaeology Museum,2020-12-14,2020,2
+39,Joshua,Green,Algeria,Algiers,National Museum,2021-01-30,2021,1
+40,Zoe,Adams,Poland,Warsaw,Art Museum,2022-04-09,2022,3
+41,Christopher,Baker,Czechia,Prague,History Museum,2023-08-26,2023,2
+42,Nora,Gonzales,Hungary,Budapest,Natural History Museum,2024-09-17,2024,0
+43,Andrew,Nelson,Romania,Bucharest,Art Museum,2025-11-03,2025,1
+44,Hannah,Carter,Belarus,Minsk,National Museum,2020-05-21,2020,2
+45,David,Mitchell,Kazakhstan,Almaty,History Museum,2021-06-11,2021,0
+46,Sebastian,Roberts,Uzbekistan,Tashkent,State Museum,2022-02-02,2022,3
+47,Aurora,Turner,Kyrgyzstan,Bishkek,Archaeology Museum,2023-10-10,2023,1
+48,Isaac,Phillips,Tajikistan,Dushanbe,History Museum,2024-07-27,2024,0
+49,Layla,Campbell,Azerbaijan,Baku,National Museum,2025-03-15,2025,1
+50,Julian,Parker,Georgia,Tbilisi,Art Museum,2020-09-05,2020,0
+51,Madison,Evans,United States,Los Angeles,Science Center,2021-02-11,2021,2
+52,Henry,Edwards,United Kingdom,Manchester,History Museum,2022-04-07,2022,1
+53,Scarlett,Collins,France,Marseille,Art Museum,2023-05-22,2023,3
+54,Leo,Stewart,Germany,Hamburg,Maritime Museum,2024-08-14,2024,2
+55,Lillian,Morris,Japan,Osaka,National Museum,2020-10-19,2020,0
+56,Alexander,Rogers,China,Shanghai,Museum of Modern Art,2021-06-30,2021,1
+57,Chloe,Reed,India,Mumbai,History Museum,2022-11-12,2022,0
+58,Daniel,Cook,Australia,Melbourne,Art Museum,2023-01-23,2023,2
+59,Sofia,Morgan,Canada,Vancouver,Natural History Museum,2024-02-18,2024,1
+60,Matthew,Bell,Russia,St Petersburg,Ermitage Museum,2025-04-05,2025,3
+61,Victoria,Murphy,Italy,Venice,Art Museum,2020-12-09,2020,2
+62,Samuel,Bailey,Spain,Barcelona,History Museum,2021-03-15,2021,1
+63,Harper,Rivera,Mexico,Guadalajara,Cultural Heritage Museum,2022-06-07,2022,0
+64,Elijah,Cooper,Brazil,Rio de Janeiro,National Museum,2023-07-21,2023,2
+65,Aurora,Richardson,Egypt,Alexandria,Archaeology Museum,2024-09-10,2024,1
+66,Henry,Cox,Turkey,Izmir,Modern Art Museum,2025-01-05,2025,0
+67,Madison,Howard,UAE,Abu Dhabi,Louvre Abu Dhabi,2020-02-14,2020,2
+68,Benjamin,Ward,Saudi Arabia,Jeddah,Art Museum,2021-05-09,2021,1
+69,Aria,Peterson,Sweden,Gothenburg,Museum of World Culture,2022-08-22,2022,3
+70,Alexander,Ramirez,Norway,Bergen,Maritime Museum,2023-10-30,2023,2
+71,Scarlett,James,Netherlands,Rotterdam,History Museum,2024-03-18,2024,0
+72,Leo,Watson,Switzerland,Geneva,Art Museum,2025-06-09,2025,1
+73,Chloe,Brooks,Portugal,Porto,National Museum,2020-07-21,2020,0
+74,Elijah,Kelly,Greece,Thessaloniki,Archaeology Museum,2021-09-11,2021,2
+75,Hannah,Sanders,Argentina,Cordoba,Modern Art Museum,2022-11-03,2022,1
+76,Daniel,Price,Chile,Valparaiso,Maritime Museum,2023-01-20,2023,0
+77,Olivia,Bennett,Peru,Cusco,History Museum,2024-05-14,2024,2
+78,Madison,Wood,Colombia,Medellin,Art Museum,2025-08-27,2025,1
+79,Lucas,Barnes,Indonesia,Bali,Cultural Heritage Museum,2020-03-03,2020,0
+80,Ava,Ross,Malaysia,Penang,History Museum,2021-06-15,2021,2
+81,Henry,Henderson,Singapore,Singapore,Museum of Asian Civilisations,2022-09-29,2022,1
+82,Charlotte,Castillo,Thailand,Chiang Mai,Art Museum,2023-01-21,2023,0
+83,Alexander,Garcia,Vietnam,Ho Chi Minh City,History Museum,2024-05-08,2024,2
+84,Liam,Butler,South Korea,Busan,National Museum,2025-07-07,2025,1
+85,Olivia,Foster,New Zealand,Wellington,Te Papa Museum,2020-02-04,2020,0
+86,Daniel,Gray,Nigeria,Abuja,National Museum,2021-12-12,2021,2
+87,Scarlett,James,Kenya,Mombasa,Maritime Museum,2022-07-01,2022,1
+88,Matthew,Hughes,Morocco,Marrakech,Art Museum,2023-10-30,2023,0
+89,Hannah,Price,Jazoir,Oran,History Museum,2024-03-12,2024,2
+90,Joseph,Myers,Polsha,Krakow,Archaeology Museum,2025-01-28,2025,1
+91,Victoria,Flores,Czechia,Brno,Science Center,2020-08-16,2020,0
+92,Lucas,Evans,Hungary,Debrecen,Natural History Museum,2021-11-02,2021,2
+93,Chloe,Diaz,Romania,Cluj,Art Museum,2022-02-14,2022,1
+94,Alexander,Reed,Belarus,Grodno,History Museum,2023-06-07,2023,0
+95,Emma,Howard,Kazakhstan,Shymkent,National Museum,2024-09-23,2024,2
+96,Henry,Brooks,Uzbekistan,Samarkand,Registan Museum,2025-04-11,2025,1
+97,Olivia,Barnes,Kyrgyzstan,Osh,History Museum,2020-05-02,2020,0
+98,Elijah,Ross,Tajikistan,Kurgan Tyube,Local History Museum,2021-07-27,2021,2
+99,Madison,Hughes,Azerbaijan,Sumqayit,Art Museum,2022-11-20,2022,1
+100,Lucas,Foster,Georgia,Batumi,Maritime Museum,2023-09-15,2023,0

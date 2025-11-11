@@ -1,0 +1,52 @@
+id,first_name,last_name,age,gender,visit_date,time_in,time_out,purpose,books_borrowed,membership_id,city
+1,Anvar,Olimova,51,M,2025-11-07,10:55,11:55,Course work,2,M001,Andijan
+2,Nilufar,Xolmatova,29,F,2025-11-02,08:30,09:41,Study group,3,M002,Tashkent
+3,Aziz,Olimova,45,M,2025-11-09,14:13,15:27,Homework,4,M003,Samarkand
+4,Komil,Sattarova,30,M,2025-11-03,14:48,15:55,Reading,5,M004,Fergana
+5,Jasur,Ergasheva,37,M,2025-11-07,09:34,11:27,Research,0,M005,Bukhara
+6,Nilufar,Yuldasheva,52,F,2025-11-04,14:50,15:58,Course work,4,M006,Andijan
+7,Nilufar,Nazarova,36,F,2025-11-08,11:09,12:16,Reading,2,M007,Andijan
+8,Komil,Isroilov,58,M,2025-11-10,09:21,10:19,Newspaper,1,M008,Samarkand
+9,Akbar,To‘xtasinov,23,M,2025-11-04,14:38,16:16,Research,1,M009,Tashkent
+10,Madina,Olimova,49,F,2025-11-08,14:43,15:47,Reading,0,M010,Bukhara
+11,Dilnoza,Sattarova,25,F,2025-11-09,12:03,13:56,Borrow books,0,M011,Samarkand
+12,Komil,Yusupov,29,M,2025-11-02,16:33,17:47,Reading,3,M012,Andijan
+13,Madina,Yuldasheva,46,F,2025-11-02,13:41,14:52,Study group,2,M013,Andijan
+14,Doston,To‘xtasinov,31,M,2025-11-07,09:15,10:29,Homework,4,M014,Tashkent
+15,Otabek,Rustamov,36,M,2025-11-08,12:44,13:30,Course work,3,M015,Fergana
+16,Komil,Yusupov,23,M,2025-11-07,12:36,13:53,Reading,0,M016,Samarkand
+17,Malika,Nazarova,30,F,2025-11-10,09:04,10:48,Reading,2,M017,Fergana
+18,Rustam,Yuldasheva,45,M,2025-11-04,10:23,11:35,Study group,3,M018,Andijan
+19,Nilufar,To‘xtasinov,48,F,2025-11-09,10:22,12:01,Course work,2,M019,Andijan
+20,Nilufar,Karimova,21,F,2025-11-08,13:40,14:38,Research,0,M020,Tashkent
+21,Akbar,Islomov,26,M,2025-11-02,10:03,11:28,Reading,1,M021,Bukhara
+22,Ulugbek,Rustamov,41,M,2025-11-06,13:12,15:01,Research,5,M022,Samarkand
+23,Komil,Ergasheva,53,M,2025-11-08,09:58,10:47,Course work,0,M023,Andijan
+24,Shahnoza,To‘xtasinov,25,F,2025-11-10,15:23,16:42,Research,3,M024,Fergana
+25,Ilhom,Rustamov,24,M,2025-11-04,09:55,10:57,Reading,4,M025,Tashkent
+26,Malika,Sattarova,46,F,2025-11-06,09:39,10:48,Research,0,M026,Samarkand
+27,Nilufar,Isroilov,20,F,2025-11-05,10:23,11:12,Study group,1,M027,Andijan
+28,Rustam,Abdullaeva,52,M,2025-11-09,15:31,17:02,Research,3,M028,Bukhara
+29,Gulnora,Sattarova,58,F,2025-11-04,13:05,14:44,Homework,2,M029,Fergana
+30,Nilufar,Xolmatova,24,F,2025-11-03,09:20,10:39,Reading,0,M030,Andijan
+31,Nilufar,Nazarova,23,F,2025-11-06,10:54,12:15,Homework,0,M031,Samarkand
+32,Nilufar,Olimova,19,F,2025-11-09,13:35,15:27,Research,2,M032,Andijan
+33,Nilufar,Yusupov,59,F,2025-11-04,14:08,15:15,Newspaper,1,M033,Tashkent
+34,Oybek,Nazarova,42,M,2025-11-10,08:44,09:49,Borrow books,3,M034,Andijan
+35,Ilhom,Yusupov,55,M,2025-11-02,13:12,14:37,Course work,4,M035,Bukhara
+36,Otabek,Isroilov,34,M,2025-11-07,10:23,11:14,Research,0,M036,Fergana
+37,Nilufar,Rahmonova,22,F,2025-11-06,15:23,16:26,Reading,2,M037,Samarkand
+38,Nilufar,Sattarova,25,F,2025-11-04,10:10,11:40,Homework,3,M038,Andijan
+39,Jasur,Rustamov,44,M,2025-11-08,14:47,15:45,Course work,0,M039,Bukhara
+40,Nilufar,Yusupov,28,F,2025-11-09,15:01,16:09,Reading,1,M040,Tashkent
+41,Ilhom,Nazarova,49,M,2025-11-06,09:22,10:23,Reading,5,M041,Fergana
+42,Otabek,Rahmonova,37,M,2025-11-01,09:47,10:35,Course work,2,M042,Andijan
+43,Nilufar,Isroilov,53,F,2025-11-02,14:27,15:59,Research,4,M043,Samarkand
+44,Akbar,Olimova,45,M,2025-11-05,11:15,12:58,Study group,3,M044,Andijan
+45,Malika,Karimova,31,F,2025-11-04,10:04,11:48,Borrow books,0,M045,Tashkent
+46,Nilufar,Isroilov,34,F,2025-11-09,09:55,10:48,Reading,2,M046,Samarkand
+47,Rustam,Nazarova,54,M,2025-11-02,13:29,14:39,Course work,1,M047,Bukhara
+48,Nilufar,Rustamov,30,F,2025-11-07,09:18,10:50,Homework,0,M048,Andijan
+49,Madina,Rahmonova,47,F,2025-11-05,09:21,10:31,Reading,5,M049,Tashkent
+50,Jasur,Isroilov,20,M,2025-11-08,15:04,16:22,Reading,1,M050,Fergana
+
