@@ -1,15 +1,3 @@
-# import numpy as np
-# import pandas as pd
-# import matplotlib.pyplot as plt
-# import seaborn as sns
-# df=pd.read_csv('cars.csv')
-# fig,ax=plt.subplots(2,2,figsize=(15,5))
-# fig.suptitle('grafick 2')
-# sns.histplot(data=df,x='price',ax=ax[0,0])
-# sns.scatterplot(data=df,x='brand',ax=ax[0, 1])
-# sns.barplot(data=df,x='model',ax=ax[1, 0])
-# sns.lineplot(data=df,x='transmission',ax=ax[1, 1])
-# plt.show()
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
